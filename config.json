@@ -1,0 +1,22 @@
+{
+    "token":"NjkyMTI3MjIzODQ2NjY2MzIw.Xnp_0A.j9rH5z3Ddl1fFyO0Iwnixu1InLg",
+    "embed":{
+        "footer":"BroBot",
+        "color":"6600CC"
+    },
+    "admin_users":["354271328859324416", "303467530226237451"],
+    "arcadia-key":"f980748621d719b39a80b95563bcf881bf42312fc7c191d4b186e1b8701a4152",
+    "game":"Aidez Brozard & xAzorg !",
+    "prefix":"b!",
+    "error_messages":{
+        "perm":"vous n'avez pas les permissions d'effectuer cette commande ! (Chehh)"
+    },
+    "owner":"354271328859324416",
+    "support":"507599372855541765",
+    "channel":"518779793144021002",
+    "logs_channel":"507630468527554597",
+    "mps":"558354760663564319",
+    "blacklist":[
+        "discord.gg"
+    ]
+}
